@@ -1,3 +1,7 @@
+// Title: Basic Parsing Data
+// Purpose: Practice parsing data
+// Class: Enjoy the process
+// Author: Fransiskus Agapa
 
 #include <iostream>
 #include <fstream>
